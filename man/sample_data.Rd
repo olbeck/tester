@@ -4,11 +4,13 @@
 \name{sample_data}
 \alias{sample_data}
 \title{Sample Data for Analysis}
-\format{A \code{tibble} with 2 columns, which are:
+\format{
+A \code{tibble} with 2 columns, which are:
 \describe{
 \item{x}{random normal data}
 \item{y}{outcome that is normal based on \code{x}}
-}}
+}
+}
 \usage{
 sample_data
 }
